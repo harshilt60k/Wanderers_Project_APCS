@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=AbstractPointSeeker
+comment1.params=
+comment1.target=void\ onArrival()
+comment2.params=x\ y
+comment2.target=AbstractPointSeeker(double,\ double)
+comment3.params=p
+comment3.target=void\ setDestination(sacco.Point)
+comment4.params=
+comment4.target=sacco.Point\ getDestination()
+comment5.params=
+comment5.target=void\ update()
+comment6.params=
+comment6.target=void\ horizontalSeekerRunner()
+comment7.params=
+comment7.target=void\ spiralSeeker()
+comment8.params=
+comment8.target=void\ randomizeDestination()
+comment9.params=
+comment9.target=void\ randomizeLocation()
+numComments=10

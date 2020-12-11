@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CodedStringGenerator
+comment1.params=arr
+comment1.target=java.lang.String\ generateCodedString(java.lang.Object[])
+comment2.params=
+comment2.target=void\ main()
+numComments=3
